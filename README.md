@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joseph-el
+- 👋 Hi, I’m joseph
 
 ##  42 Profile Badges
 
