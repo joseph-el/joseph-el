@@ -4,4 +4,4 @@
 
 - 📖 I’m currently learning swift/swiftUI and Js
 
-[![](https://visitcount.itsvg.in/api?id=joseph-el&label=129&color=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=joseph-el&label=129&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
