@@ -48,11 +48,16 @@ One of my biggest dreams is to build my own operating system from scratch. I fin
 <p align="center">
 <a href="https://github.com/joseph-el">
   
-  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joseph-el&show_icons=true&theme=material-palenight&bg_color=0D1017&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="135" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joseph-e&layout=compact&langs_count=8&theme=material-palenight&bg_color=0D1017&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joseph-el&show_icons=true&theme=material-palenight&bg_color=0D1017&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-el&layout=compact&theme=material-palenight&bg_color=0D1017&hide_border=false" />
 </a>
 </p>
  
+  <span align="center">
+  <img align="center" 
+</span>
+  
+  
 <p align="center">
  <img src="https://media.giphy.com/media/xThta1wmw6DUBWgyXK/giphy.gif" width="40" alt="Git"/>&nbsp;<i><b>Tools, languages, and other things that I like to work with</b></i>
 </p>
