@@ -37,17 +37,26 @@ Hi, I'm [Youssef El Idrissi](https://twitter.com/joseph_el12/) a 19 year old com
 <div align="center">
   
 One of my biggest dreams is to build my own operating system from scratch. I find the inner workings of computer systems fascinating, and I'm always eager to learn more about how they operate. With my curiosity and determination, I'm confident that I can achieve this ambitious goal and make a positive impact in the tech industry.
-</h1>
 
 ## 🛠 **&nbsp;languages and tools:** 
 <i>Tools, languages, and other things that I like to work with.</i> 
 
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" /></a>
-<a href="https://desktop.github.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/13171334?s=200&v=4" height="30" alt="githubdesktop" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="30" alt="vscode" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linux/linux-icon.svg" height="30" alt="Linux" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" height="40" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=swift" height="40" alt="Linux" /></a>
+<a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tauri" height="40" alt="Linux" /></a>
+<a href="https://www.adobe.com/mena_en/products/illustrator.html?gclid=CjwKCAjw__ihBhADEiwAXEazJg5MRwhYP1dJxDSWF6lyHQJGpyRnRKsGxbOOvwMfpJwfimAXPBcu-hoCENoQAvD_BwE&skwcid=AL!3085!3!650623857532!e!!g!!illustrator%20adobe&mv=search&mv=search&sdid=KCJMVLF6&ef_id=CjwKCAjw__ihBhADEiwAXEazJg5MRwhYP1dJxDSWF6lyHQJGpyRnRKsGxbOOvwMfpJwfimAXPBcu-hoCENoQAvD_BwE:G:s&s_kwcid=AL!3085!3!650623857532!e!!g!!illustrator%20adobe!19781109735!146381061283" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" height="40" alt="design" /></a>
+<a href="https://www.adobe.com/mena_en/products/photoshop/landpb.html?gclid=CjwKCAjw__ihBhADEiwAXEazJtY1H16YcYcg0TtJwVyCgOhPnw7zM9FpYQNXvOCIHK7-KeOwWnfMbRoCTnMQAvD_BwE&skwcid=AL!3085!3!650623648318!e!!g!!adobe%20photoshop&s_kwcid=AL!3085!3!650623648318!e!!g!!adobe%20photoshop!19789105628!145176032565&mv=search&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAjw__ihBhADEiwAXEazJtY1H16YcYcg0TtJwVyCgOhPnw7zM9FpYQNXvOCIHK7-KeOwWnfMbRoCTnMQAvD_BwE:G:s&s_kwcid=AL!3085!3!650623648318!e!!g!!adobe%20photoshop!19789105628!145176032565" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ps" height="40" alt="design " /></a>
+<a href="https://www.adobe.com/mena_en/products/premiere.html?gclid=CjwKCAjwov6hBhBsEiwAvrvN6OXNah0xEqfZRW5f8K4riF07Kdkrnr32-8_gSGN1pplcpgk4pQD2TBoCkdgQAvD_BwE&skwcid=AL!3085!3!650693393888!e!!g!!adobe%20premiere%20pro&s_kwcid=AL!3085!3!650693393888!e!!g!!adobe%20premiere%20pro!19781094681!148375829482&mv=search&sdid=LQLZT7BT&ef_id=CjwKCAjwov6hBhBsEiwAvrvN6OXNah0xEqfZRW5f8K4riF07Kdkrnr32-8_gSGN1pplcpgk4pQD2TBoCkdgQAvD_BwE:G:s&s_kwcid=AL!3085!3!650693393888!e!!g!!adobe%20premiere%20pro!19781094681!148375829482" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pr" height="40" alt="Linux" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=r" height="40" alt="Linux" /></a>
+<a href="https://desktop.github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" height="40" alt="githubdesktop" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="Linux" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" /></a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vim" height="40" alt="Linux" /></a>
+<a href="https://fileinfo.com/extension/md#:~:text=An%20MD%20file%20is%20a,%2C%20headers%2C%20table%20formatting)." target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=md" height="40" alt="Linux" /></a>
 
 
-<br>
+
+
