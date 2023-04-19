@@ -45,13 +45,11 @@ One of my biggest dreams is to build my own operating system from scratch. I fin
 
   
   
-  
-  
 <p align="center">
 <a href="https://github.com/joseph-el">
   
   <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joseph-el&show_icons=true&theme=material-palenight&bg_color=0D1017&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="135" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joseph-el&layout=compact&langs_count=8&theme=material-palenight&bg_color=0D1017&hide_border=true"/>
+  <img height="135" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joseph-e&layout=compact&langs_count=8&theme=material-palenight&bg_color=0D1017&hide_border=true"/>
 </a>
 </p>
  
