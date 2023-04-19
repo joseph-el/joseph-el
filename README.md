@@ -38,10 +38,21 @@ Hi, I'm [Youssef El Idrissi](https://twitter.com/joseph_el12/) a 19 year old com
   
 One of my biggest dreams is to build my own operating system from scratch. I find the inner workings of computer systems fascinating, and I'm always eager to learn more about how they operate. With my curiosity and determination, I'm confident that I can achieve this ambitious goal and make a positive impact in the tech industry.
 
+ <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="55" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+</p>
+
+<span align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph-el&show_icons=true&theme=material-palenight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175/>
+</span>
+
+<span align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-el&layout=compact&theme=material-palenight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=135 />
+</span>
+  
 <p align="center">
  <img src="https://media.giphy.com/media/xThta1wmw6DUBWgyXK/giphy.gif" width="40" alt="Git"/>&nbsp;<i><b>Tools, languages, and other things that I like to work with</b></i>
 </p>
-
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" height="40" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /></a>
@@ -61,19 +72,13 @@ One of my biggest dreams is to build my own operating system from scratch. I fin
 </div>
 </a>
 
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="55" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
-</p>
-
-<span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph-el&show_icons=true&theme=material-palenight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175/>
-</span>
-
-<span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-el&layout=compact&theme=material-palenight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=135 />
-</span>
-
 - Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Tech%20Enthusiast;Cafephile;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
+</p>
 
 
 
