@@ -44,11 +44,11 @@ One of my biggest dreams is to build my own operating system from scratch. I fin
 </p>
 
 <span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph-e&show_icons=true&theme=material-palenight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph-el&show_icons=true&theme=material-palenight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175/>
 </span>
 
 <span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-e&layout=compact&theme=material-palenight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=135 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-el&layout=compact&theme=material-palenight&bg_color=0D1017&hide_border=false" alt="Github Stats" height=135 />
 </span>
  
 <p align="center">
