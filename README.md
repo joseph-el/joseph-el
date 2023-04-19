@@ -71,6 +71,7 @@ One of my biggest dreams is to build my own operating system from scratch. I fin
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vim" height="40" alt="Linux" /></a>
 <a href="https://fileinfo.com/extension/md#:~:text=An%20MD%20file%20is%20a,%2C%20headers%2C%20table%20formatting)." target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=md" height="40" alt="Linux" /></a>
 </div>
+
 </a>
 
 - Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
