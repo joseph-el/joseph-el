@@ -53,10 +53,6 @@ One of my biggest dreams is to build my own operating system from scratch. I fin
 </a>
 </p>
  
-  <span align="center">
-  <img align="center" 
-</span>
-  
   
 <p align="center">
  <img src="https://media.giphy.com/media/xThta1wmw6DUBWgyXK/giphy.gif" width="40" alt="Git"/>&nbsp;<i><b>Tools, languages, and other things that I like to work with</b></i>
