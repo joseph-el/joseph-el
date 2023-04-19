@@ -7,6 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+ <p align="center" justify="center"> <img src="https://komarev.com/ghpvc/?username=yashkandalkar&label=Profile%20views&color=0e75b6&style=flat-square" alt="yashkandalkar" /></p>
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -49,7 +50,7 @@ One of my biggest dreams is to build my own operating system from scratch. I fin
 <span align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-el&layout=compact&theme=material-palenight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=135 />
 </span>
-  
+ 
 <p align="center">
  <img src="https://media.giphy.com/media/xThta1wmw6DUBWgyXK/giphy.gif" width="40" alt="Git"/>&nbsp;<i><b>Tools, languages, and other things that I like to work with</b></i>
 </p>
