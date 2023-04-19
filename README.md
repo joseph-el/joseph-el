@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
- <p align="center" justify="center"> <img src="https://komarev.com/ghpvc/?username=yashkandalkar&label=Profile%20views&color=0e75b6&style=flat-square" alt="yashkandalkar" /></p>
+ <p align="center" justify="center"> <img src="https://komarev.com/ghpvc/?username=joseph-el&label=Profile%20views&color=0e75b6&style=flat-square" alt="joseph-el" /></p>
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
