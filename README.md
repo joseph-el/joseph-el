@@ -38,8 +38,10 @@ Hi, I'm [Youssef El Idrissi](https://twitter.com/joseph_el12/) a 19 year old com
   
 One of my biggest dreams is to build my own operating system from scratch. I find the inner workings of computer systems fascinating, and I'm always eager to learn more about how they operate. With my curiosity and determination, I'm confident that I can achieve this ambitious goal and make a positive impact in the tech industry.
 
-## 🛠 **&nbsp;languages and tools:** 
-<i>Tools, languages, and other things that I like to work with.</i> 
+<p align="center">
+ <img src="https://media.giphy.com/media/xThta1wmw6DUBWgyXK/giphy.gif" width="40" alt="Git"/>&nbsp;<i><b>Tools, languages, and other things that I like to work with</b></i>
+</p>
+
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" height="40" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /></a>
@@ -56,7 +58,22 @@ One of my biggest dreams is to build my own operating system from scratch. I fin
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" /></a>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vim" height="40" alt="Linux" /></a>
 <a href="https://fileinfo.com/extension/md#:~:text=An%20MD%20file%20is%20a,%2C%20headers%2C%20table%20formatting)." target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=md" height="40" alt="Linux" /></a>
+</div>
+</a>
 
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="55" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+</p>
+
+<span align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph-el&show_icons=true&theme=material-palenight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175/>
+</span>
+
+<span align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-el&layout=compact&theme=material-palenight&bg_color=0D1017&hide_border=true" alt="Github Stats" height=135 />
+</span>
+
+- Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 
