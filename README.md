@@ -10,27 +10,7 @@
 
  <p align="center" justify="center"> <img src="https://komarev.com/ghpvc/?username=joseph-el&label=Profile%20views&color=0e75b6&style=flat-square" alt="joseph-el" /></p>
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://discordapp.com/channels/@me/Joseph#2017/">
-  <img align="left" alt="Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.instagram.com/elidrissi.joseph/">
-  <img align="left" alt="Shibin's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-</a>
-<a href="https://twitter.com/joseph_el12/">
-  <img align="left" alt="Shibin Thomas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/youssef-el-idrissi-85a299273/">
-  <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://stackoverflow.com/users/20039734/joseph" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="22px" align="left" />
-</a>
-<a href="https://www.youtube.com/@netproelidrissi/">
-  <img align="left" alt="Shibin's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg" />
-</a>
-<br />
- 
+
  <div align="center">
 
 Hi, I'm [Youssef El Idrissi](https://twitter.com/joseph_el12/) a 19 year old computer science student currently studying in the [@42 network](https://www.42network.org/). I'm very passionate about programming and have a particular interest in learning [Swift](https://developer.apple.com/swift/) and [SwiftUI](https://developer.apple.com/xcode/swiftui/), two popular programming languages used in IOS app development. I also have some skills in [Adobe Photoshop](https://www.adobe.com/mena_en/products/photoshop/landpb.html?gclid=CjwKCAjw__ihBhADEiwAXEazJiTSI9WAvZ9IGD4RnP7TTK2s6cX-dXzMM-L8BS4412Rl2r2ogluxQxoCPvUQAvD_BwE&skwcid=AL!3085!3!650623648318!e!!g!!adobe%20photoshop&s_kwcid=AL!3085!3!650623648318!e!!g!!adobe%20photoshop!19789105628!145176032565&mv=search&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAjw__ihBhADEiwAXEazJiTSI9WAvZ9IGD4RnP7TTK2s6cX-dXzMM-L8BS4412Rl2r2ogluxQxoCPvUQAvD_BwE:G:s&s_kwcid=AL!3085!3!650623648318!e!!g!!adobe%20photoshop!19789105628!145176032565) and enjoy using my creativity to design graphics and visuals.
@@ -50,7 +30,8 @@ One of my biggest dreams is to build my own operating system from scratch. I fin
 <a href="https://github.com/joseph-el">
   
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joseph-el&show_icons=true&theme=material-palenight&bg_color=0D1017&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-el&layout=compact&theme=material-palenight&bg_color=0D1017&hide_border=false" />
+  
+  <img height="140"  />
 </a>
 </p>
  
