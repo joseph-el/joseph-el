@@ -12,11 +12,12 @@
 
 
  <div align="center">
-
+<!--
 Hi, I'm [Youssef El Idrissi](https://twitter.com/joseph_el12/) a computer science student currently studying in the [@42 network](https://www.42network.org/).
  <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="55" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
+-->
 
   
   
@@ -29,7 +30,7 @@ Hi, I'm [Youssef El Idrissi](https://twitter.com/joseph_el12/) a computer scienc
 </a>
 </p>
  
-  
+<!--
 <p align="center">
  <img src="https://media.giphy.com/media/xThta1wmw6DUBWgyXK/giphy.gif" width="40" alt="Git"/>&nbsp;<i><b>Tools, languages, and other things that I like to work with</b></i>
 </p>
@@ -50,11 +51,13 @@ Hi, I'm [Youssef El Idrissi](https://twitter.com/joseph_el12/) a computer scienc
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vim" height="40" alt="Linux" /></a>
 <a href="https://fileinfo.com/extension/md#:~:text=An%20MD%20file%20is%20a,%2C%20headers%2C%20table%20formatting)." target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=md" height="40" alt="Linux" /></a>
 </div>
-
+-->
 </a>
 
-- Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!--
 
+- Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+-->
 </div>
 
 <p align="center">
